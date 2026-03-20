@@ -12,16 +12,16 @@ Execução via Terminal / Prompt de Comando
 
 Para jogar, você precisará ter o Java JDK (disponível no site da Oracle) instalado no seu computador. E depois, siga o passo a passo abaixo no seu terminal:
 
-Clone o repositório:
+- Clone o repositório:
 git clone https://github.com/liviasouzaozorio/Jogo_Adivinhacao.git
 
-Navegue até a pasta do código-fonte:
+- Navegue até a pasta do código-fonte:
 cd Jogo_Adivinhacao/AULA_JOGO/src
 
-Compile o arquivo do jogo:
+- Compile o arquivo do jogo:
 javac aula_jogo/JOGO_LEGAL.java
 
-Execute o jogo:
+- Execute o jogo:
 java aula_jogo.JOGO_LEGAL
 
 
