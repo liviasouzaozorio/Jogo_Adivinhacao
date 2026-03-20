@@ -1,0 +1,1 @@
+Um projeto feito no aplicativo IntelliJ utilizando a linguagem JAVA. O objetivo desse projeto é realizar um jogo de adivinhação com números de 1 à 100, cujo o jogador irá ter que adivinhar com um limite de cinco tentativas.
