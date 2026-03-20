@@ -1,1 +1,27 @@
-Um projeto feito no aplicativo IntelliJ utilizando a linguagem JAVA. O objetivo desse projeto é realizar um jogo de adivinhação com números de 1 à 100, cujo o jogador irá ter que adivinhar com um limite de cinco tentativas.
+🎮Jogo de Adivinhação
+
+- Um projeto de jogo interativo de adivinhação desenvolvido inteiramente em Java. Este sistema foi criado com o objetivo de colocar em prática os fundamentos da linguagem, lógica de programação e estruturação de pacotes.
+
+Tecnologias Utilizadas:
+
+-Java
+
+Execução via Terminal / Prompt de Comando
+
+🚩Como rodar o projeto na sua máquina:
+
+Para jogar, você precisará ter o Java JDK (disponível no site da Oracle) instalado no seu computador. E depois, siga o passo a passo abaixo no seu terminal:
+
+Clone o repositório:
+git clone https://github.com/liviasouzaozorio/Jogo_Adivinhacao.git
+
+Navegue até a pasta do código-fonte:
+cd Jogo_Adivinhacao/AULA_JOGO/src
+
+Compile o arquivo do jogo:
+javac aula_jogo/JOGO_LEGAL.java
+
+Execute o jogo:
+java aula_jogo.JOGO_LEGAL
+
+Desenvolvido por Lívia Ozorio.
