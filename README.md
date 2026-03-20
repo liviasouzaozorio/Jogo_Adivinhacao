@@ -4,7 +4,7 @@
 
 Tecnologias Utilizadas:
 
--Java
+- Java
 
 Execução via Terminal / Prompt de Comando
 
