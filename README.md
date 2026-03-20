@@ -4,9 +4,11 @@
 
 Tecnologias Utilizadas:
 
-- Java
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Execução via Terminal / Prompt de Comando
+ℹ️Execução via Terminal / Prompt de Comando
 
 🚩Como rodar o projeto na sua máquina:
 
