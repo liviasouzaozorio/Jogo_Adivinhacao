@@ -24,4 +24,5 @@ javac aula_jogo/JOGO_LEGAL.java
 Execute o jogo:
 java aula_jogo.JOGO_LEGAL
 
-Desenvolvido por Lívia Ozorio.
+
+😊Desenvolvido por Lívia Ozorio.
