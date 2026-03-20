@@ -10,7 +10,7 @@ Execução via Terminal / Prompt de Comando
 
 🚩Como rodar o projeto na sua máquina:
 
-Para jogar, você precisará ter o Java JDK (disponível no site da Oracle) instalado no seu computador. E depois, siga o passo a passo abaixo no seu terminal:
+Para jogar, você precisará ter o Java JDK (disponível no site da Oracle) e também o Git instalados em seu computador. E depois, siga o passo a passo abaixo no seu terminal:
 
 - Clone o repositório:
 git clone https://github.com/liviasouzaozorio/Jogo_Adivinhacao.git
